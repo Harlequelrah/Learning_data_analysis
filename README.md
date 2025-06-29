@@ -41,6 +41,23 @@ Pour lancer les notebooks localement :
    ```
 > 💡 Ou ouvre directement les fichiers `.ipynb` sur [Google Colab](https://colab.research.google.com/)
 
+## Parties
+
+- Partie 1
+Appréhendez les bases de l'analyse statistique
+
+
+- Partie 2
+Nettoyez un jeu de données
+
+
+- Partie 3
+Représentez vos variables
+
+
+- Partie 4
+Réalisez une analyse bivariée
+
 ## ✍️ Progrès
 
 - [x] Détection et traitement des valeurs manquantes
