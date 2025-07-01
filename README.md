@@ -60,10 +60,10 @@ Réalisez une analyse bivariée
 
 ## ✍️ Progrès
 
-- [x] Détection et traitement des valeurs manquantes
-- [x] Nettoyage des doublons et corrections des données aberrantes
-- [x] Analyse statistique descriptive
-- [x] Visualisation simple des données
+- [x] Partie 1
+- [] Partie 2
+- [] Partie 3
+- [] Partie 4
 
 ## 📌 Remarques
 
