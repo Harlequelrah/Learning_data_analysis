@@ -61,9 +61,9 @@ Réalisez une analyse bivariée
 ## ✍️ Progrès
 
 - [x] Partie 1
-- [] Partie 2
-- [] Partie 3
-- [] Partie 4
+- [x] Partie 2
+- [ ] Partie 3
+- [ ] Partie 4
 
 ## 📌 Remarques
 
