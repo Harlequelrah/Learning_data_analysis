@@ -63,7 +63,7 @@ Réalisez une analyse bivariée
 - [x] Partie 1
 - [x] Partie 2
 - [x] Partie 3
-- [ ] Partie 4
+- [x] Partie 4
 
 ## 📌 Remarques
 
