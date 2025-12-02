@@ -1,6 +1,6 @@
 # Nettoyage et Analyse de Données avec Python
 
-Ce dépôt rassemble mes notes, exercices et expérimentations issus du cours [Nettoyez et analysez votre jeu de données](https://openclassrooms.com/fr/courses/7410486-nettoyez-et-analysez-votre-jeu-de-donnees) sur OpenClassrooms.
+Ce dossier  rassemble mes notes, exercices et expérimentations issus du cours [Nettoyez et analysez votre jeu de données](https://openclassrooms.com/fr/courses/7410486-nettoyez-et-analysez-votre-jeu-de-donnees) sur OpenClassrooms.
 
 ## 📚 Objectif
 
