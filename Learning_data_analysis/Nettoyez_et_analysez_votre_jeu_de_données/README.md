@@ -18,28 +18,6 @@ Apprendre à **nettoyer et analyser un jeu de données en Python** à l’aide d
 - Jupyter Notebooks
 - Visual Studio Code (facultatif)
 
-## 🚀 Pour commencer
-
-Pour lancer les notebooks localement :
-
-1. Clone le dépôt :
-   ```bash
-   git clone https://github.com/Harlequelrah/learning_data_analysis.git
-   ```
-2. Crée un environnement virtuel :
-   ```bash
-   python -m venv env
-   source env/bin/activate  # ou .\env\Scripts\activate sur Windows
-   ```
-3. Installe les dépendances :
-   ```bash
-   pip install pandas numpy matplotlib seaborn jupyter
-   ```
-4. Lance Jupyter :
-   ```bash
-   jupyter notebook
-   ```
-> 💡 Ou ouvre directement les fichiers `.ipynb` sur [Google Colab](https://colab.research.google.com/)
 
 ## Parties
 
@@ -74,4 +52,4 @@ Ce dépôt est personnel et évolutif. Il me permet de :
 
 ## 📖 Licence
 
-Ce dépôt est partagé à des fins éducatives. Le contenu original du cours appartient à OpenClassrooms.
+Ce dossier est partagé à des fins éducatives. Le contenu original du cours appartient à OpenClassrooms.
