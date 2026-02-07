@@ -2,14 +2,14 @@
 
 Ce dossier  rassemble mon apprentissage de l'analyse de données  en master , autodicdate ou sur OpenClassrooms.
 
-## 🛠️ Outils utilisés
+##  Outils utilisés
 
 - Python 3.12+
 - Google Colab
 - Jupyter Notebooks
 - Visual Studio Code
 
-## 🚀 Pour commencer
+##  Pour commencer
 
 Pour lancer les notebooks localement :
 
@@ -30,7 +30,7 @@ Pour lancer les notebooks localement :
    ```bash
    jupyter notebook
    ```
-> 💡 Ou ouvre directement les fichiers `.ipynb` sur [Google Colab](https://colab.research.google.com/)
+>  Ou ouvre directement les fichiers `.ipynb` sur [Google Colab](https://colab.research.google.com/)
 
 
 
@@ -39,7 +39,7 @@ Ce dépôt est personnel et évolutif. Il me permet de :
 - conserver mes expérimentations
 - préparer des projets plus avancés
 
-## 📖 Licence
+## Licence
 
 Ce dépôt est partagé à des fins éducatives.
 
