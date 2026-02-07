@@ -1,26 +1,25 @@
 # Résumé
-Nous avons deux espaces : 
+Nous avons deux espaces :
 
 - L'espace $\mathbb{R}^p$ à p dimension où on place le nuage des individus $N_I$
 - L'espace $\mathbb{R}^k$ à n dimension où on place le nuage des variables $N_K$
 
-Pour repondre à nos deux objectifs nous allons créer deux graphiques : 
+Pour repondre à nos deux objectifs nous allons créer deux graphiques :
 - La projection du nuage des individus $N_I$ sur le premier plan factoriel
 - La projection du nuage des variables $N_K$ sur le premier plan factoriel : `cercle des corrélations`
 
 **note** : le premier plan factoriel représente les deux premiers axes d'inertie
 
 
-## Cercle des corrélations 
+## Cercle des corrélations
 
 Les fleches ne depassent jamais le cercle tant que les données sont centrées (ce qui est standard en ACP) et si elle sont réduites on dit que l'ACP est normées.
 
 L'objectif est de trouver des variables corrélées entre elles pour avoir des variables synthétiques qui seront composantes principales.
 
-Exemple : 
-![cercle des corrélations](Learning_data_analysis/realisez-une-analyse-exploratoire-de-donnees/assets/cercle_correlations_P2C3.png)
-
-La projection d'une variable v sur F1 par exemple donne son coefficient de correlation avec F1 . 
+Exemple :
+![cercle des corrélations](../assets/cercle_correlations_P2C3.png)
+La projection d'une variable v sur F1 par exemple donne son coefficient de correlation avec F1 .
 
 On remarque alors que le coefficient de correlation de $v_1$ et F1 vaut `0.9`
 
@@ -29,10 +28,10 @@ On remarque alors que le coefficient de correlation de $v_1$ et F1 vaut `0.9`
 
 Cercle du jeu de donnée sur openclassroom s
 
-![Cercle jeu de donnée Openclassrooms](Learning_data_analysis/realisez-une-analyse-exploratoire-de-donnees/assets/cercle_correlation_dataset_Openclassrooms.png)
+![Cercle jeu de donnée Openclassrooms](../assets/cercle_correlation_dataset_Openclassrooms.png)
 
 
-Les variables les plus corrélées avec F1 sont : 
+Les variables les plus corrélées avec F1 sont :
 
 - la durée ;
 
@@ -55,7 +54,7 @@ les variables les plus corrélées à F2 sont :
 
 On peut donc interpréter F2 comme la facilité du cours.
 
-Si on doit résumé notre jeu de données on peut le faire suivant ces deux tendances : 
+Si on doit résumé notre jeu de données on peut le faire suivant ces deux tendances :
 
 - La longueur du cours : on a des cours plus long que d'autres
 - La facilité du cours : on a des cours qui sont faciles et d'autres difficiles
