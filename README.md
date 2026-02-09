@@ -4,7 +4,7 @@ Ce dossier  rassemble mon apprentissage de l'analyse de données  en master , au
 
 ##  Outils utilisés
 
-- Python 3.12+
+- Python 3.14+
 - Google Colab
 - Jupyter Notebooks
 - Visual Studio Code
