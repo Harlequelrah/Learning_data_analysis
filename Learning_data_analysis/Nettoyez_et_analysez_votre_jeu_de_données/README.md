@@ -13,7 +13,7 @@ Apprendre à **nettoyer et analyser un jeu de données en Python** à l’aide d
 
 ## 🛠️ Outils utilisés
 
-- Python 3.11+
+- Python 3.14+
 - Google Colab (recommandé)
 - Jupyter Notebooks
 - Visual Studio Code (facultatif)
