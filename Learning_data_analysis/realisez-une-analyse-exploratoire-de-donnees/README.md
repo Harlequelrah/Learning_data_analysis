@@ -43,7 +43,7 @@ Partitionnez vos données
 
 - [x] Partie 1
 - [x] Partie 2
-- [] Partie 3
+- [x] Partie 3
 
 ## 📌 Remarques
 
